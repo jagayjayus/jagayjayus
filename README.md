@@ -1,7 +1,7 @@
 
 Hello. My Strawpage (and possible Rentry/Carrd) are undergoing changes so I wrote a short intro here instead. 
 
-I am Jayus/Jay (pronounced as Jai-yus), He/Him. I'm a Trans Boy with an unlabelled sexuality (closest is Pansexual.) I'm an INTJ with a 5w6 or a 6w5 I don't remember...
+I am Jayus/Jay (pronounced as Jai-yus), He/Him. I'm a Aromantic Pansexual Trans Boy. I'm an INTJ with a 5w6 or a 6w5 I don't remember...
 
 I am 15 yo turning 16. My timezone is GMT +8 as I'm from the Philippines. 
 
