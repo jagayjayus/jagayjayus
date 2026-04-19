@@ -12,4 +12,3 @@ DNI: [Basic DNI Criteria](https://dni-criteria.carrd.co/), -13, 21+, HaiKaveh (t
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus)
 
 
-https://github.com/kittinan/spotify-github-profile.git
