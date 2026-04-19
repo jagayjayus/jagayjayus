@@ -9,6 +9,8 @@ BYI: Always w2i since I'm offtab when on Pony Town. If there's no c+h in my name
 
 DNI: [Basic DNI Criteria](https://dni-criteria.carrd.co/), -13, 21+, HaiKaveh (them independently and together) Antis, People who use AI for generative art or chatbots.
 
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus)
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=1e9974&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&redirect=true)
