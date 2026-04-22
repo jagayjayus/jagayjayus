@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[atabook](https://jagayjayus.atabook.org/) 𓂀 [carrd](https://jagayjayus.carrd.co/) 𓋹 [gimmicks](https://admonishinginstruction.straw.page/) ☣︎ [strawpage](https://jagayjayus.straw.page/)
+[atabook](https://jagayjayus.atabook.org/) 𓂀 [carrd](https://jagayjayus.carrd.co/) 𓋹 [gimmicks](https://admonishinginstruction.straw.page/) ☣︎ [strawpage](https://jagayjayus.straw.page/) 𝄞 [tiktok](https://www.tiktok.com/@jagayjayus)
 
 </div>
 
