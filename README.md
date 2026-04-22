@@ -2,5 +2,5 @@
 
 <p align="center">[atabook](https://jagayjayus.atabook.org/) 𓂀 [carrd](https://jagayjayus.carrd.co/) 𓋹 (gimmicks)[https://admonishinginstruction.straw.page/] ☣︎ (strawpage)[https://jagayjayus.straw.page/].</p>
 
-
+This site was built using [GitHub Pages](https://pages.github.com/).
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus)
