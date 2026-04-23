@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=389699&style=plastic&label=test)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=6fd9ba&style=plastic&label=✧)
 
 <img width="1750" height="900" alt="Header w Coloring_20260422002921" src="https://github.com/user-attachments/assets/d08a4f72-540e-4d07-8691-33ecf38db9ee" />
 
