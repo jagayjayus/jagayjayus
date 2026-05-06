@@ -14,4 +14,5 @@
 
 </div>
 
-
+No need to whisper/say if you're going out of c+h to me.
+Redoing my sites soon but I won't unlink them.
