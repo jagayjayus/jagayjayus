@@ -3,6 +3,7 @@
 
 
 <img width="1750" height="900" alt="Header w Coloring_20260422002921" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA5NWFmMzljamt6MGU3d2ZvMjI5MDh1cW8xeXN2MDhoZzZscHE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqfimiQvdTIvSaWhE/giphy.gif" />
+ㅤ
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=46a7a1&style=plastic&label=chiselmirrors)
 
