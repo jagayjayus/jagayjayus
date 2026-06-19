@@ -1,14 +1,12 @@
 
 <div align="center">
 
- 
-<img width="1750" height="900" alt="Header w Coloring_20260422002921" src="https://github.com/user-attachments/assets/d08a4f72-540e-4d07-8691-33ecf38db9ee" />
+
+<img width="1750" height="900" alt="Header w Coloring_20260422002921" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA5NWFmMzljamt6MGU3d2ZvMjI5MDh1cW8xeXN2MDhoZzZscHE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqfimiQvdTIvSaWhE/giphy.gif" />
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=46a7a1&style=plastic&label=chiselmirrors)
 
-[𝔞𝔱𝔞𝔟𝔬𝔬𝔨](https://jagayjayus.atabook.org/) 𓂀 [𝔯𝔢𝔫𝔱𝔯𝔶](https://rentry.co/jagayjayus) 𓋹 [𝔤𝔦𝔪𝔪𝔦𝔠𝔨𝔰](https://admonishinginstruction.straw.page/) ☣︎ [𝔱𝔦𝔨𝔱𝔬𝔨](https://www.tiktok.com/@jagayjayus)  
-
-
+I. [atabook](https://jagayjayus.atabook.org/) II. [edit tiktok](https://www.tiktok.com/@jagayjayus) III. [gimmicks](https://admonishinginstruction.straw.page/) IV. [rentry](https://rentry.co/jagayjayus) 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&redirect=true)
 
