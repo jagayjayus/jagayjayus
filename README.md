@@ -7,7 +7,7 @@
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=46a7a1&style=plastic&label=ChiselMirrors)
 
-I. [Atabook](https://jagayjayus.atabook.org/) II. [Edit Tiktok](https://www.tiktok.com/@jagayjayus) III. [Gimmicks](https://jayusarchives.straw.page/) IV. [Rentry](https://rentry.co/jagayjayus) 
+I. [Atabook](https://jagayjayus.atabook.org/) II. [Edit Tiktok](https://www.tiktok.com/@jagayjayus) III. [Gimmicks](https://jayusarchives.straw.page/) IV. [Rentry]([https://rentry.co/jagayjayus](https://rentry.co/jayvs)) 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&redirect=true)
 
