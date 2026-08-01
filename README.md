@@ -2,14 +2,8 @@
 <div align="center">
 
 
-<img width="1750" height="900" alt="Header w Coloring_20260422002921" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA5NWFmMzljamt6MGU3d2ZvMjI5MDh1cW8xeXN2MDhoZzZscHE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqfimiQvdTIvSaWhE/giphy.gif" />
-ㅤ
+<img src="https://64.media.tumblr.com/1cfc9df6c1dcffbb0a78b675fc20698b/4d73282282112336-31/s250x400/adf55da569c242ddc9c998b0faab6f9922cc673a.gifv" />  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=visceraldehyde&color=000000&style=plastic&label=radiation)
 
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=visceraldehyde&color=000000&style=plastic&label=radiation)
-
-I. [Atabook](https://jagayjayus.atabook.org/) II. [Edit Tiktok](https://www.tiktok.com/@jagayjayus) III. [Gimmicks](https://jayusarchives.straw.page/) redoing rentery when i have the time..
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&redirect=true)
+[新book](https://visuschrist.atabook.org/) <img src="https://file.garden/Z4-KIXj5okOfzeyR/STASH/Pixels2/28/f1226400.gif" />  rentry soon
 
 </div>
-
