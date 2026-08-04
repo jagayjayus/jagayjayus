@@ -9,5 +9,4 @@
 
  <img src="https://file.garden/ajUBZFnoARaglI9o/beltblink.webp" />  
 
-
 </div>
