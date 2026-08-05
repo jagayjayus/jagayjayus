@@ -5,7 +5,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/syringe.webp" />  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=000000&style=plastic&label=Shots)
   
-[新book](https://jagayjayus.atabook.org/) <img src="https://file.garden/ajUBZFnoARaglI9o/ribs.gif" />  Rentry (Soon)
+[新book](https://jagayjayus.atabook.org/) <img src="https://file.garden/ajUBZFnoARaglI9o/ribs.gif" />  [Rentry](https://rentry.co/jagayjayus)
 
  <img src="https://file.garden/ajUBZFnoARaglI9o/beltblink.webp" />  
 
