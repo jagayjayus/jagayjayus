@@ -10,7 +10,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/divider.png" width=1000 /> 
 
-$\color{#00ff00}\textsf{Click on the corresponding images to access.}$ ‎  
+$\color{#00ff00}\textsf{Click on the corresponding images to access. (Better viewed in PC)}$ ‎  
 
 [<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=125 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=125 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=125 />
 
