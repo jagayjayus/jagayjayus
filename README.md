@@ -12,7 +12,7 @@
 
 $\color{#00ff00}\textsf{Click on the corresponding images to access.}$ ‎  
 
-[<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=150 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=150 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=150 />
+[<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=140 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=140 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=140 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=140 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=140 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=140 />
 
  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ $\color{#00ff00}\textsf{新BOOK}$ ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{RENTRY}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎   ‎  ‎ ‎   ‎  ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{BYI (WIP)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎‎ ‎  ‎  ‎  $\color{#00ff00}\textsf{MISC (WIP)}$   ‎  ‎  ‎  ‎ ‎   ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{STRAW (WIP)}$‎  ‎  ‎ ‎  ‎  ‎    ‎  ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{GALLERY (WIP)}$ 
 
