@@ -11,6 +11,8 @@
   
 [新book](https://jagayjayus.atabook.org/) <img src="https://file.garden/ajUBZFnoARaglI9o/ribs.gif" />  [Rentry](https://rentry.co/jagayjayus)
 
- <img src="https://file.garden/ajUBZFnoARaglI9o/beltblink.webp" />  
+ <img src="https://file.garden/ajUBZFnoARaglI9o/beltblink.webp" /> 
+ 
+ PROFILE WIP
 
 </div>
