@@ -1,5 +1,4 @@
 <div align="center">
-```diff
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/githeader.png" />
 
