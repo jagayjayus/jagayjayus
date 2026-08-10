@@ -16,7 +16,7 @@ $\color{#00ff00}\textsf{Click on the corresponding images to access.}$ ‎
 $\color{#00ff00}\textsf{新book}$ ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎   ‎  ‎  ‎ ‎ ‎   ‎  ‎ ‎  ‎   ‎   ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{Rentry}$  ‎  ‎  ‎ ‎  ‎    ‎  ‎  ‎ ‎   ‎  ‎ ‎ ‎   ‎  ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{Byi (WIP)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎‎ ‎  ‎ ‎‎   ‎  $\color{#00ff00}\textsf{Misc (WIP)}$   ‎  ‎  ‎  ‎ ‎   ‎ ‎  ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{Straw (WIP)}$‎  ‎  ‎ ‎  ‎  ‎    ‎  ‎  ‎  ‎ ‎    ‎  ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{Gallery (WIP)}$ 
 
  
- PROFILE WIP (Redoing Rentry next.)
+ PROFILE WIP (Redoing Rentry next).
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/gitfooter.png" />
 
