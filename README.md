@@ -17,7 +17,7 @@ $\color{#00ff00}\textsf{Click on the corresponding images to access.}$ ‎
  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ $\color{#00ff00}\textsf{新BOOK}$ ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{RENTRY}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎   ‎  ‎ ‎   ‎  ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{BYI (WIP)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎‎ ‎  ‎  ‎  $\color{#00ff00}\textsf{MISC (WIP)}$   ‎  ‎  ‎  ‎ ‎   ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{STRAW (WIP)}$‎  ‎  ‎ ‎  ‎  ‎    ‎  ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{GALLERY (WIP)}$ 
 
  
- Rentry and Atabook will be redone.
+ Rentry will have a redo.
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/gitfooter.png" />
 
