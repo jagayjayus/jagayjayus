@@ -5,15 +5,8 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=000000&style=plastic&label=Shots)
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/Untitled264_20260810174037.png" /> 
 
-
-
-
-
-
-  
-[新book](https://jagayjayus.atabook.org/) <img src="https://file.garden/ajUBZFnoARaglI9o/ribs.gif" />  [Rentry](https://rentry.co/jagayjayus)
+[新book](https://jagayjayus.atabook.org/) <img src="https://i.pinimg.com/736x/ea/b0/41/eab0419595123d8055b6f544dc2adb01.jpg" width="30"/>  [Rentry](https://rentry.co/jagayjayus)
 
  <img src="https://file.garden/ajUBZFnoARaglI9o/beltblink.webp" /> 
  
