@@ -12,7 +12,7 @@ $\color{#00ff00}\textsf{Click on the corresponding images to access.}$ ‎
 
 [<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=150 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=150 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=150 />
 
-$\color{#00ff00}\textsf{新book}$ ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎   ‎  ‎  ‎ ‎ ‎   ‎  ‎ ‎  ‎   ‎   ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{Rentry}$  ‎  ‎  ‎ ‎  ‎    ‎  ‎  ‎ ‎   ‎  ‎ ‎ ‎   ‎  ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{Byi (WIP)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎‎ ‎  ‎ ‎‎   ‎  $\color{#00ff00}\textsf{Misc (WIP)}$   ‎  ‎  ‎  ‎ ‎   ‎ ‎  ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{Straw (WIP)}$‎  ‎  ‎ ‎  ‎  ‎    ‎  ‎  ‎  ‎ ‎    ‎  ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{Gallery (WIP)}$ 
+ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ $\color{#00ff00}\textsf{新BOOK}$ ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{RENTRY}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎   ‎  ‎ ‎   ‎  ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{BYI (WIP)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎‎ ‎  ‎  ‎  $\color{#00ff00}\textsf{MISC (WIP)}$   ‎  ‎  ‎  ‎ ‎   ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{STRAW (WIP)}$‎  ‎  ‎ ‎  ‎  ‎    ‎  ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{GALLERY (WIP)}$ 
 
  
  PROFILE WIP (Redoing Rentry next).
