@@ -11,7 +11,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/divider.png" width=1000 /> 
 
-$\color{#00ff00}\textsf{Click on the corresponding images to access. (Better viewed on PC.)}$ ‎  
+$\color{#00ff00}\textsf{𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖼𝗈𝗋𝗋𝖾𝗌𝗉𝗈𝗇𝖽𝗂𝗇𝗀 𝗂𝗆𝖺𝗀𝖾𝗌 𝗍𝗈 𝖺𝖼𝖼𝖾𝗌𝗌. 𝖡𝖾𝗌𝗍 𝗏𝗂𝖾𝗐𝖾𝖽 𝗈𝗇 𝖯𝖢.}$ ‎  
 
 [<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=125 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=125 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=125 />
 
