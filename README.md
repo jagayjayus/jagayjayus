@@ -2,7 +2,8 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/githeader.png" />
 
-<img src="https://adriansblinkiecollection.neocities.org/k13.gif" />   ‎  ‎<img src="https://adriansblinkiecollection.neocities.org/k1.gif" />   ‎  ‎![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=000000&style=plastic&label=EMFLevel)     ‎‎<img src="https://adriansblinkiecollection.neocities.org/k11.gif" />   ‎ ‎ <img src="https://file.garden/ajUBZFnoARaglI9o/typeonegative.gif" />
+<img src="https://adriansblinkiecollection.neocities.org/k13.gif" />   ‎  ‎![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=000000&style=plastic&label=EMFLevel)     <img src="https://adriansblinkiecollection.neocities.org/k1.gif" />
+   ‎  ‎
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) <img src="https://64.media.tumblr.com/c328e9521391ed691c83980bcd6005e1/25a5383a26de0a28-e5/s100x200/bf08297d6149ef0ff382f4e1b2ae76e67f370785.gifv" />
 
@@ -14,10 +15,12 @@ $\color{#00ff00}\textsf{Click on the corresponding images to access. (Better vie
 
 [<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=125 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=125 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=125 />
 
- ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ $\color{#00ff00}\textsf{新BOOK}$ ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎  ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{RENTRY}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎   ‎  ‎ ‎   ‎  ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{BYI (WIP)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎ ‎‎ ‎  ‎  ‎  $\color{#00ff00}\textsf{MISC (WIP)}$   ‎  ‎  ‎  ‎ ‎   ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{STRAW (WIP)}$‎  ‎  ‎ ‎  ‎  ‎    ‎  ‎  ‎ ‎  ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{GALLERY (WIP)}$ 
+ ‎ ‎ ‎  ‎ ‎‎  ‎  ‎  ‎  ‎ ‎ ‎    ‎  ‎‎   ‎ ‎ ‎    ‎ ‎ $\color{#00ff00}\textsf{新𝖡𝖮𝖮𝖪}$ ‎  ‎  ‎  ‎ ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{𝖱𝖤𝖭𝖳𝖱𝖸}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖡𝖸𝖨 (𝖶𝖨𝖯)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎     ‎   ‎ ‎‎ ‎  $\color{#00ff00}\textsf{𝖬𝖨𝖲𝖢 (𝖶𝖨𝖯)}$   ‎  ‎  ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖲𝖳𝖱𝖠𝖶 (𝖶𝖨𝖯)}$‎  ‎  ‎ ‎  ‎  ‎    ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{𝖦𝖨𝖬𝖬𝖨𝖢𝖪𝖲 (𝖶𝖨𝖯)}$ 
 
- 
  Rentry will have a redo.
+
+ <img src="https://file.garden/ajUBZFnoARaglI9o/typeonegative.gif" />   ‎ ‎ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=600&color=00FF00&vCenter=true&width=350&height=30&lines=You'll+never+understand;The+meaning+in+the+end;We're+standing+at+the+gate;You'll+meet+the+darker+fate)](https://git.io/typing-svg)
+
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/gitfooter.png" />
 
