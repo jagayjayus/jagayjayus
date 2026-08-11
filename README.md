@@ -6,7 +6,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) <img src="https://64.media.tumblr.com/c328e9521391ed691c83980bcd6005e1/25a5383a26de0a28-e5/s100x200/bf08297d6149ef0ff382f4e1b2ae76e67f370785.gifv" />
 
-<img src="https://adriansblinkiecollection.neocities.org/stamps/f20.gif" />   ‎  ‎<img src="https://adriansblinkiecollection.neocities.org/stamps/f23.gif" />  ‎ <img src="https://adriansblinkiecollection.neocities.org/stamps/f49.gif" />  ‎ <img src="https://adriansblinkiecollection.neocities.org/stamps/d70.jpg" />   ‎  ‎<img src="https://adriansblinkiecollection.neocities.org/stamps/d23.png" /> 
+<img src="https://adriansblinkiecollection.neocities.org/stamps/f20.gif" />   ‎  ‎<img src="https://adriansblinkiecollection.neocities.org/stamps/f23.gif" />   ‎  ‎<img src="https://64.media.tumblr.com/50befe90620552b72e65cf93b80da13f/70199db9eea296dd-f4/s100x200/7435f54cc02cb641c766bdf3a493492a5955dbaa.gifv" /> ‎  <img src="https://adriansblinkiecollection.neocities.org/stamps/f49.gif" />  ‎ <img src="https://adriansblinkiecollection.neocities.org/stamps/d70.jpg" />   ‎  ‎<img src="https://adriansblinkiecollection.neocities.org/stamps/d23.png" /> 
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/divider.png" width=1000 /> 
 
