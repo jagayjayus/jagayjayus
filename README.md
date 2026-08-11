@@ -16,7 +16,7 @@ $\color{#00ff00}\textsf{𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖼𝗈𝗋�
 
 [<img src="https://file.garden/ajUBZFnoARaglI9o/1.png" width=125 />](https://jagayjayus.atabook.org/) [<img src="https://file.garden/ajUBZFnoARaglI9o/2.png" width=125 />](https://rentry.co/jagayjayus) <img src="https://file.garden/ajUBZFnoARaglI9o/3.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/4.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/5.png" width=125 /> <img src="https://file.garden/ajUBZFnoARaglI9o/6.png" width=125 />
 
- ‎ ‎ ‎  ‎ ‎‎  ‎  ‎  ‎  ‎ ‎ ‎    ‎  ‎‎   ‎ ‎ ‎    ‎ ‎ $\color{#00ff00}\textsf{新𝖡𝖮𝖮𝖪}$ ‎  ‎  ‎  ‎ ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{𝖱𝖤𝖭𝖳𝖱𝖸}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖡𝖸𝖨 (𝖶𝖨𝖯)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎     ‎   ‎ ‎‎ ‎  $\color{#00ff00}\textsf{𝖬𝖨𝖲𝖢 (𝖶𝖨𝖯)}$   ‎  ‎  ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖲𝖳𝖱𝖠𝖶 (𝖶𝖨𝖯)}$‎  ‎  ‎ ‎  ‎  ‎    ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{𝖦𝖨𝖬𝖬𝖨𝖢𝖪𝖲 (𝖶𝖨𝖯)}$ 
+ ‎ ‎ ‎  ‎ ‎‎  ‎  ‎  ‎  ‎ ‎ ‎    ‎  ‎‎   ‎ ‎ $\color{#00ff00}\textsf{新𝖡𝖮𝖮𝖪}$ ‎  ‎  ‎  ‎ ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{𝖱𝖤𝖭𝖳𝖱𝖸}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖡𝖸𝖨 (𝖶𝖨𝖯)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎     ‎   ‎ ‎‎ ‎  $\color{#00ff00}\textsf{𝖬𝖨𝖲𝖢 (𝖶𝖨𝖯)}$   ‎  ‎  ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖲𝖳𝖱𝖠𝖶 (𝖶𝖨𝖯)}$‎  ‎  ‎ ‎  ‎  ‎    ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{𝖦𝖨𝖬𝖬𝖨𝖢𝖪𝖲 (𝖶𝖨𝖯)}$ 
 
  Rentry will have a redo.
 
