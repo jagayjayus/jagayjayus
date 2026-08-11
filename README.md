@@ -18,8 +18,6 @@ $\color{#00ff00}\textsf{𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖼𝗈𝗋�
 
  ‎ ‎ ‎  ‎ ‎‎  ‎  ‎      ‎ ‎ $\color{#00ff00}\textsf{新𝖡𝖮𝖮𝖪}$ ‎  ‎  ‎  ‎ ‎     ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎‎  ‎  ‎   $\color{#00ff00}\textsf{𝖱𝖤𝖭𝖳𝖱𝖸}$  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎  ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖡𝖸𝖨 (𝖶𝖨𝖯)}$   ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎     ‎   ‎ ‎‎ ‎  $\color{#00ff00}\textsf{𝖬𝖨𝖲𝖢 (𝖶𝖨𝖯)}$   ‎  ‎  ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎  ‎  $\color{#00ff00}\textsf{𝖲𝖳𝖱𝖠𝖶 (𝖶𝖨𝖯)}$‎  ‎  ‎ ‎  ‎  ‎    ‎ ‎  ‎  ‎  ‎  ‎  ‎ ‎ $\color{#00ff00}\textsf{𝖦𝖨𝖬𝖬𝖨𝖢𝖪𝖲 (𝖶𝖨𝖯)}$ 
 
- Rentry will have a redo.
-
  <img src="https://file.garden/ajUBZFnoARaglI9o/londonaftermidnight" />   ‎ ‎    ‎  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=600&color=00FF00&vCenter=true&width=350&height=30&lines=You'll+never+understand;The+meaning+in+the+end;We're+standing+at+the+gate;You'll+meet+the+darker+fate)](https://git.io/typing-svg)
 
 
