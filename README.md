@@ -2,7 +2,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/githeader.png" />
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/typeonegative.gif" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=3000&pause=500&color=00FF00&vCenter=true&width=500&height=30&lines=A+long+story+short%3A;When+I+woke+up+from+the+operation;I+was+bleeding+down+there;Bleeding+from+the+gash+between+my+legs;My+first+day+as+a+woman;And+already+it's+that+time+of+the+month)](https://git.io/typing-svg)
+<img src="https://file.garden/ajUBZFnoARaglI9o/typeonegative.gif" />    ‎  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=3000&pause=500&color=00FF00&vCenter=true&width=500&height=30&lines=A+long+story+short%3A;When+I+woke+up+from+the+operation;I+was+bleeding+down+there;Bleeding+from+the+gash+between+my+legs;My+first+day+as+a+woman;And+already+it's+that+time+of+the+month)](https://git.io/typing-svg)
    ‎  ‎
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) <img src="https://64.media.tumblr.com/c328e9521391ed691c83980bcd6005e1/25a5383a26de0a28-e5/s100x200/bf08297d6149ef0ff382f4e1b2ae76e67f370785.gifv" />
 
@@ -20,7 +20,7 @@ $\color{#00ff00}\textsf{𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖼𝗈𝗋�
 
  Rentry will have a redo.
 
- <img src="https://file.garden/ajUBZFnoARaglI9o/londonaftermidnight" />   ‎ ‎ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=600&color=00FF00&vCenter=true&width=350&height=30&lines=You'll+never+understand;The+meaning+in+the+end;We're+standing+at+the+gate;You'll+meet+the+darker+fate)](https://git.io/typing-svg)
+ <img src="https://file.garden/ajUBZFnoARaglI9o/londonaftermidnight" />   ‎ ‎    ‎  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=600&color=00FF00&vCenter=true&width=350&height=30&lines=You'll+never+understand;The+meaning+in+the+end;We're+standing+at+the+gate;You'll+meet+the+darker+fate)](https://git.io/typing-svg)
 
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/gitfooter.png" />
