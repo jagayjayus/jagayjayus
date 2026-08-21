@@ -23,4 +23,8 @@ $\color{#00ff00}\textsf{𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖼𝗈𝗋�
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/gitfooter.png" />
 
+ignore this im reworking
+
+<img src="https://file.garden/ajUBZFnoARaglI9o/bAtabook.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/bExtended.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/bFluffle.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/bGimmicks.png" width=150 /> <img src="https://file.garden/ajUBZFnoARaglI9o/bStrawpage.png" width=150 />
+
 </div>
