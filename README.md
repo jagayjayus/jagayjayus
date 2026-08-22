@@ -27,8 +27,8 @@ ignore this I’m reworking
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/GHMain.png" width=400 >
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/GHAtaBook.png" width=150> 
-<img src="https://file.garden/ajUBZFnoARaglI9o/GHFluffle.png" width="150">
-<img src="https://file.garden/ajUBZFnoARaglI9o/GHStrawpage.png" width="150">
+$\color{#00ff00}\textsf{新book}$ $\color{#00ff00}\textsf{Fluffle}$ $\color{#00ff00}\textsf{Strawpage}$
+
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) <
 
 </div>
