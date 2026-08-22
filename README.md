@@ -27,6 +27,8 @@ ignore this I’m reworking
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/GHMain.png" width=400 >
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/GHAtaBook.png" width=150 > 
+<img src="https://file.garden/ajUBZFnoARaglI9o/GHAtaBook.png" width=“150”> 
+<img src="https://file.garden/ajUBZFnoARaglI9o/GHFluffle.png" width="150">
+<img src="https://file.garden/ajUBZFnoARaglI9o/GHStrawpage.png" width="150">
 
 </div>
