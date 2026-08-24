@@ -13,6 +13,6 @@ Strawpage
 
 
 
-temporary layout
+Temporary layout. If you want to c+h, just go to me instead if ever.. I don't like leaving the rock
 
 </div>
