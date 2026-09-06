@@ -1,14 +1,12 @@
 
 <div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lancelot&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=You'll+never+understand;The+meaning+in+the+end;We're+standing+at+the+gate;You'll+meet+the+darker+fate" alt="Typing SVG" /></a>
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/GHMain.png" width=500 > ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=000000&style=plastic&label=IQ)
+<img src="https://file.garden/ajUBZFnoARaglI9o/HoyoFair2026.jpeg" width=550 > 
 
-[<img src="https://file.garden/ajUBZFnoARaglI9o/GitHubAtaBook.png" width=200>](https://jagayjayus.atabook.org/)⠀ [<img src="https://file.garden/ajUBZFnoARaglI9o/GitHubFluffle.png" width=200>](https://fluffle.cc/jayus)⠀ <img src="https://file.garden/ajUBZFnoARaglI9o/GitHubStraw.png" width=200>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=000000&style=plastic&label=Altitude) <img src="https://64.media.tumblr.com/c0e1a9ab9b5122e991ea9ae2c691e6df/cfbdb1d0211bac1e-74/s75x75_c1/8be712f44686faf3f7ed4671cfed439c0fbe5462.gifv"  width=20 >
+
+[新book](https://jagayjayus.atabook.org/)⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀   ⠀ ⠀ [Fluffle](https://fluffle.cc/jayus)⠀ ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀  ⠀ ⠀ ⠀   ⠀ Strawpage
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) 
-
-Strawpage wip no link added to that yet
 
 </div>
