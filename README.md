@@ -3,10 +3,10 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/GitHub.png">
 
-[![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=grey&style=plastic&label=Flight+Hours)](https://github.com/antonkomarev/github-profile-views-counter) <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=310&height=20&lines=Good+afternoon+passengers.+;This+is+your+captain+speaking.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Verdana&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=310&height=20&lines=Good+afternoon+passengers.+;This+is+your+captain+speaking.+" alt="Typing SVG" /></a>
 
-| [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus)‎ ‎  Strawpage | :airplane: |
-| -- | -- |
+| [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus)‎ ‎  Strawpage | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=grey&style=plastic&label=Flight+Hours)](https://github.com/antonkomarev/github-profile-views-counter) |
+| -- | -- | -- |
 
 
 
