@@ -3,7 +3,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/GitHub.png">
 
-[![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=161616&style=plastic&label=Flight+Hours)](https://github.com/antonkomarev/github-profile-views-counter) 
+[![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=grey&style=plastic&label=Flight+Hours)](https://github.com/antonkomarev/github-profile-views-counter) 
 
 | [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus)‎ ‎  Strawpage | 
 | -- |
