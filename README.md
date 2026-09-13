@@ -16,6 +16,4 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/Divider.png">
 
-Repository WIP
-
 </div>
