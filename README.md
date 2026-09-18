@@ -2,7 +2,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/GitHub.png">
 
-| [新book](https://jagayjayus.atabook.org/)‎ ‎  [Neocities](https://jagayjayus.neocities.org/)‎ ‎  Strawpage | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=0080D2&style=plastic&label=Passengers)](https://github.com/antonkomarev/github-profile-views-counter) |
+| [新book](https://jagayjayus.atabook.org/)‎ ‎  [Neocities](https://jagayjayus.neocities.org/)‎ ‎  [Strawpage[(https://jagayjayus.straw.page/) | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=0080D2&style=plastic&label=Passengers)](https://github.com/antonkomarev/github-profile-views-counter) |
 | -- | -- | -- |
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/DIvider747.gif">
