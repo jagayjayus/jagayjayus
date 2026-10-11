@@ -11,6 +11,4 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/Divider.png">
 
-All of my themes are wip im changing all of them
-
 </div>
