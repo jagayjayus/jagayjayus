@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/GitHub.png">
+<img src="https://file.garden/ajUBZFnoARaglI9o/Untitled366_20261018102035.png">
 
 | [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus) ‎  [Strawpage](https://jagayjayus.straw.page/) | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=0080D2&style=plastic&label=Passengers)](https://github.com/antonkomarev/github-profile-views-counter) |
 | -- | -- | -- |
