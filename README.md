@@ -5,6 +5,8 @@
 | [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus) ‎  [Strawpage](https://jagayjayus.straw.page/) | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=0080D2&style=plastic&label=Passengers)](https://github.com/antonkomarev/github-profile-views-counter) |
 | -- | -- | -- |
 
+<img src="https://file.garden/ajUBZFnoARaglI9o/pony-town-bfdfffbd-dance%20move%201-blinking-padded-ponyplush-4x.gif" width=50px>
+
 <img src="https://file.garden/ajUBZFnoARaglI9o/DIvider747.gif">
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/pony-town-bfdfffbd-dance%20move%201-blinking-padded-ponyplush-4x.gif" width=50px>
