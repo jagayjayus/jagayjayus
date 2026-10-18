@@ -9,6 +9,4 @@
 
 ‎[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&redirect=true)
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/IMG_5909.gif"> 
-
 </div>
