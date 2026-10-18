@@ -2,7 +2,7 @@
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/Untitled366_20261018102035.png">
 
-| [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus) ‎  [Strawpage](https://jagayjayus.straw.page/) | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=98AAB5&style=plastic&label=Passengers)] |
+| [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus) ‎  [Strawpage](https://jagayjayus.straw.page/) | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=98AAB5&style=plastic&label=Passengers)](https://github.com/antonkomarev/github-profile-views-counter) |
 | -- | -- | -- |
 
 <img src="https://file.garden/ajUBZFnoARaglI9o/IMG_5909.gif">
