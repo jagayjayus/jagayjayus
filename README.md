@@ -5,10 +5,10 @@
 | [新book](https://jagayjayus.atabook.org/)‎ ‎  [Fluffle](https://fluffle.cc/jayus) ‎  [Strawpage](https://jagayjayus.straw.page/) | :airplane: | [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jagayjayus&color=0080D2&style=plastic&label=Passengers)](https://github.com/antonkomarev/github-profile-views-counter) |
 | -- | -- | -- |
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/IMG_5909.gif">
+<img src="https://file.garden/ajUBZFnoARaglI9o/IMG_5916.gif">
 
 ‎[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ia61w2od2rmhvp6oqe0d5ft8u&redirect=true)
 
-<img src="https://file.garden/ajUBZFnoARaglI9o/IMG_5916.gif">
+<img src="https://file.garden/ajUBZFnoARaglI9o/IMG_5909.gif"> 
 
 </div>
